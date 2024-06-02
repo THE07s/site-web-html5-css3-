@@ -1,72 +1,149 @@
-# La politesse dans l’écrit administratif
+# AgriMapBot 🌾
 
-### Qu’est-ce que la politesse :
+## À propos du projet
 
-C’est un ensemble de comportements et d’usages propre à une société qu’un individu se doit de respecter pour faire preuve de reconnaissance face à autrui et en recevoir également. C’est la règle principal du savoir-vivre en communauté.
+<img align="left" src="https://github.com/THE07s/GarderMapBot/assets/101391118/45ccf17c-52ff-4c6a-bc98-bd0e7e535424" alt="GMD logo" width="70%" />
 
-## Introduction
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**AgriMapBot 🌾** est un robot conçu pour cartographier les plantations en mesurant la température, l'humidité et l'ensoleillement. Ces données lui permettent de fournir des conseils pour optimiser la croissance et la santé des plantes.
 
-Dans l’administration comme dans l’entreprise la politesse est une qualité essentielle à la communication. Elle montre le respect et le professionnalisme de celui qui en fait l’usage. Mais il est important de noter que ces formules de politesses diffèrent selon qu’il s’agisse d’un supérieur hiérarchique, d’un collègue, d’un subordonné ou encore d’un client. Il est donc primordial de connaître les codes de politesse propres à chaque situation afin d'établir des relations saines.
+<br clear="left"/>
 
-## Sommaire :
+## Sommaire
 
-1. La neutralité.
-2. La formule d’appel.
-3. Les degrés de déférence.
-4. Exemples.
+[I. Qui sommes-nous ?](#i-qui-sommes-nous-)
 
-## La neutralité
+[II. Pourquoi ce projet ?](#ii-pourquoi-ce-projet-)
 
-La neutralité est un aspect essentiel. Il est important de rester impartial et d'éviter d'utiliser des termes offensants ou discriminatoires. En choisissant des mots et des formulations neutres, on évite de froisser ou de créer des malentendus. Cela contribue à maintenir un climat de respect et de professionnalisme dans les échanges administratifs. Il est donc nécessaire de s'abstenir d'utiliser un ton familier ou condescendant envers ses pairs.
+[III. Fonctionnalités](#iii-fonctionnalités)
 
-## La formule d’appel
+[IV. Liste du matériel du projet final](#iv-liste-du-matériel-du-projet-final)
 
-<table>
-<tbody><tr><th colspan="1" rowspan="1"><h3 style="text-align: center">La formule d’appel</h3></th><td colspan="1" rowspan="1"><ul class="novel-list-disc novel-list-outside novel-leading-3 novel--mt-2 tight" data-tight="true"><li class="novel-leading-normal novel--mb-2"><p><span style="font-family: Helvetica">La formule d'appel est l'expression que l'on utilise en début de lettre.</span></p></li><li class="novel-leading-normal novel--mb-2"><p><span style="font-family: Helvetica">La formule d'appel du début de lettre se retrouve dans la formule de</span></p><p><span style="font-family: Helvetica">politesse.</span></p></li><li class="novel-leading-normal novel--mb-2"><p><span style="font-family: Helvetica">Selon la circulaire «Mademoiselle», la formule «Mademoiselle» n'est plus utilisée.</span></p></li></ul></td></tr></tbody>
-</table>
+[V. Installation du projet final](#v-installation-du-projet-final)
 
-## Les degrés de déférence
+[VI. Notre parcours](#vi-notre-parcours)
 
-En fonction de la personne à laquelle s’adresse l’information, il faut choisir le bon niveau de langue et surtout le degré de respect adapté. Pour effectuer un choix judicieux il faut tout d’abord bien connaître le sens des mots et expressions employées couramment, en particulier celui-ci : 
+[VII. Licence](#vii-licence)
 
-<table>
-<tbody><tr><th colspan="1" rowspan="1"><h3 style="text-align: center">Agréer </h3></th><td colspan="1" rowspan="1"><p>Signifie “accueillir favorablement, accepter”.</p><p></p><p>Par convention, ce verbe est utilisé lorsque l’on reconnaît au destinataire le pouvoir de refuser. Il marque donc un très haut degré de déférence.</p></td></tr></tbody>
-</table>
+[VIII. Contacts](#viii-contacts)
 
-En général, la composition des formules de politesse ne varie pas :
+[IX. Contributions](#ix-contributions)
 
-- `Support verbal` + `adresse` (+ titre du destinataire) + `formule nominale`.
+[X. Remerciements](#x-remerciements)
 
-<table>
-<tbody><tr><th colspan="3" rowspan="1"><p><strong><span style="font-family: Cal Sans, sans-serif, system-ui, sans-serif; color: rgb(0, 0, 0)">D’égal à égal.</span></strong></p></th></tr><tr><td colspan="1" rowspan="1"><ul class="novel-list-disc novel-list-outside novel-leading-3 novel--mt-2 tight" data-tight="true"><li class="novel-leading-normal novel--mb-2"><p><span style="font-family: Helvetica">Je vous prie d'agréer, </span></p></li><li class="novel-leading-normal novel--mb-2"><p><span style="font-family: Helvetica">Je vous prie de recevoir, </span></p></li><li class="novel-leading-normal novel--mb-2"><p><span style="font-family: Helvetica">Veuillez recevoir, </span></p></li><li class="novel-leading-normal novel--mb-2"><p><span style="font-family: Helvetica">Veuillez agréer,</span></p></li></ul></td><td colspan="1" rowspan="1"><ul class="novel-list-disc novel-list-outside novel-leading-3 novel--mt-2 tight" data-tight="true"><li class="novel-leading-normal novel--mb-2"><p><span style="font-family: Helvetica">Madame, </span></p></li><li class="novel-leading-normal novel--mb-2"><p><span style="font-family: Helvetica">Monsieur,</span></p></li></ul></td><td colspan="1" rowspan="1"><ul class="novel-list-disc novel-list-outside novel-leading-3 novel--mt-2 tight" data-tight="true"><li class="novel-leading-normal novel--mb-2"><p><span style="font-family: Helvetica">mes salutations distinguées.</span></p></li><li class="novel-leading-normal novel--mb-2"><p><span style="font-family: Helvetica">l'expression de ma considération distinguée.</span></p></li></ul></td></tr><tr><th colspan="3" rowspan="1"><p><strong><span style="font-family: Cal Sans, sans-serif, system-ui, sans-serif; color: rgb(0, 0, 0)">Supérieur hiérarchique → subordonné.</span></strong></p></th></tr><tr><td colspan="1" rowspan="1"><ul class="novel-list-disc novel-list-outside novel-leading-3 novel--mt-2 tight" data-tight="true"><li class="novel-leading-normal novel--mb-2"><p><span style="font-family: Helvetica">Je vous prie d'agréer, </span></p></li><li class="novel-leading-normal novel--mb-2"><p><span style="font-family: Helvetica">Veuillez agréer,</span></p></li></ul></td><td colspan="1" rowspan="1"><ul class="novel-list-disc novel-list-outside novel-leading-3 novel--mt-2 tight" data-tight="true"><li class="novel-leading-normal novel--mb-2"><p><span style="font-family: Helvetica">Madame,</span></p></li><li class="novel-leading-normal novel--mb-2"><p><span style="font-family: Helvetica">Monsieur,</span></p></li></ul></td><td colspan="1" rowspan="1"><ul class="novel-list-disc novel-list-outside novel-leading-3 novel--mt-2 tight" data-tight="true"><li class="novel-leading-normal novel--mb-2"><p><span style="font-family: Helvetica">l'expression de mes sentiments distingués.</span></p></li><li class="novel-leading-normal novel--mb-2"><p><span style="font-family: Helvetica">l'assurance de ma parfaite considération.</span></p></li></ul></td></tr><tr><th colspan="3" rowspan="1"><p><strong><span style="font-family: Cal Sans, sans-serif, system-ui, sans-serif; color: rgb(0, 0, 0)">Subordonné → supérieur hiérarchique.</span></strong></p></th></tr><tr><td colspan="1" rowspan="1"><ul class="novel-list-disc novel-list-outside novel-leading-3 novel--mt-2 tight" data-tight="true"><li class="novel-leading-normal novel--mb-2"><p><span style="font-family: Helvetica">Je vous prie d'agréer,</span></p></li></ul></td><td colspan="1" rowspan="1"><ul class="novel-list-disc novel-list-outside novel-leading-3 novel--mt-2 tight" data-tight="true"><li class="novel-leading-normal novel--mb-2"><p><span style="font-family: Helvetica">Madame,</span></p></li><li class="novel-leading-normal novel--mb-2"><p><span style="font-family: Helvetica">Monsieur,</span></p></li></ul></td><td colspan="1" rowspan="1"><ul class="novel-list-disc novel-list-outside novel-leading-3 novel--mt-2 tight" data-tight="true"><li class="novel-leading-normal novel--mb-2"><p><span style="font-family: Helvetica">mes respectueuses salutations.</span></p></li><li class="novel-leading-normal novel--mb-2"><p><span style="font-family: Helvetica">l'assurance de mes salutations distinguées.</span></p></li></ul></td></tr></tbody>
-</table>
+## I. Qui sommes-nous ?
 
-- Il faut à tout prix éviter les formulation pompeuse, très souvent considérées comme obséquieuse et vide. Tenons-nous en à des formulations claires et concises mais toutes aussi respectueuses :
+Nous sommes un groupe de 4 étudiants passionnés, inscrits en classe préparatoire au cycle ingénieur à ESEO - Cours Lumière, située au Togo. L'équipe est constituée de GNASSINGBE Émilie, DOUMBIA Aïchata, KORDOHOU Errath et LEENAERTS Loïc (chef de projet). 
 
-<table>
-<tbody><tr><th colspan="1" rowspan="1"><h3 style="text-align: center">Les formules à utiliser</h3></th><td colspan="1" rowspan="1"><ul class="novel-list-disc novel-list-outside novel-leading-3 novel--mt-2 tight" data-tight="true"><li class="novel-leading-normal novel--mb-2"><p>[…] J’ai le regret de vous informer que […]</p></li><li class="novel-leading-normal novel--mb-2"><p>[…] J’ai le plaisir de vous informer que […]</p></li><li class="novel-leading-normal novel--mb-2"><p>[…] Je vous fais savoir que […]</p></li></ul><p></p><ul class="novel-list-disc novel-list-outside novel-leading-3 novel--mt-2 tight" data-tight="true"><li class="novel-leading-normal novel--mb-2"><p>[…] Vous me signalez […]</p></li><li class="novel-leading-normal novel--mb-2"><p>[…] Vous me faites part de […]</p></li></ul><p></p><ul class="novel-list-disc novel-list-outside novel-leading-3 novel--mt-2 tight" data-tight="true"><li class="novel-leading-normal novel--mb-2"><p>[…] Je vous engage à […]</p></li><li class="novel-leading-normal novel--mb-2"><p>[…] Je vous demande de […]</p></li></ul><p></p><ul class="novel-list-disc novel-list-outside novel-leading-3 novel--mt-2 tight" data-tight="true"><li class="novel-leading-normal novel--mb-2"><p>[…] Je vous engage vivement à […]</p></li><li class="novel-leading-normal novel--mb-2"><p>[…] Je vous prie de […]</p></li><li class="novel-leading-normal novel--mb-2"><p>[…] Je vous propose de […]</p></li></ul><p></p><ul class="novel-list-disc novel-list-outside novel-leading-3 novel--mt-2 tight" data-tight="true"><li class="novel-leading-normal novel--mb-2"><p>[...] Je vous incite vivement à [...]</p></li></ul><p></p><ul class="novel-list-disc novel-list-outside novel-leading-3 novel--mt-2 tight" data-tight="true"><li class="novel-leading-normal novel--mb-2"><p>[...] Je vous prie de [...]</p></li><li class="novel-leading-normal novel--mb-2"><p>[...] Il faut que vous [...]</p></li><li class="novel-leading-normal novel--mb-2"><p>[...] Vous devez nécessairement [...]</p></li><li class="novel-leading-normal novel--mb-2"><p>[...] Vous devez… rapidement [...]</p></li><li class="novel-leading-normal novel--mb-2"><p>[...] Vous devez [...]</p></li><li class="novel-leading-normal novel--mb-2"><p>[...] Je vous demande avec insistance [...]</p></li></ul><p><br><strong>Remarque :</strong> vous pouvez aussi utiliser des euphémismes car ils permettent d’atténuer l’expression des idées blessantes ou désagréables.</p></td></tr></tbody>
-</table>
+## II. Pourquoi ce projet ?
 
-## Exemples
+Inspirée par l'événement mondial Arduino Day, notre équipe a saisi l'opportunité offerte par nos enseignants de concevoir des projets de robotique. Nous aspirons à améliorer la culture des plantes et à encourager l'utilisation de la tech pour faciliter et optimiser l'agriculture sur notre continent.
 
-<table>
-<tbody><tr><th colspan="2" rowspan="1"><p>Fin de lettre de motivation.</p></th></tr><tr><td colspan="2" rowspan="1"><ul class="novel-list-disc novel-list-outside novel-leading-3 novel--mt-2 tight" data-tight="true"><li class="novel-leading-normal novel--mb-2"><p>Dans l’attente de votre réponse, je vous prie d’agréer, Madame… , mes respectueuses salutations. </p></li><li class="novel-leading-normal novel--mb-2"><p>Vous remerciant de l’attention que vous porterez à ma candidature, je vous prie d’agréer, Monsieur… , mes sincères salutations. </p></li><li class="novel-leading-normal novel--mb-2"><p>Me tenant à votre disposition pour toute rencontre, je vous prie de recevoir, Madame, Monsieur, mes salutations respectueuses.</p></li></ul></td></tr><tr><th colspan="2" rowspan="1"><p>Fin de courrier administratif / commercial.</p></th></tr><tr><td colspan="2" rowspan="1"><ul class="novel-list-disc novel-list-outside novel-leading-3 novel--mt-2 tight" data-tight="true"><li class="novel-leading-normal novel--mb-2"><p>Veuillez recevoir, Madame, Monsieur, l’assurance de ma considération distinguée.</p></li><li class="novel-leading-normal novel--mb-2"><p>Je vous prie de recevoir, Madame, mes salutations distinguées.</p></li><li class="novel-leading-normal novel--mb-2"><p>Veuillez agréer, Madame, Monsieur, mes salutations les plus respectueuses.</p></li><li class="novel-leading-normal novel--mb-2"><p>Je vous prie d’agréer, Madame, Monsieur, l’expression de mes sentiments dévoués.</p></li></ul></td></tr><tr><th colspan="2" rowspan="1"><p>Fin de lettre professionnelle.</p></th></tr><tr><td colspan="2" rowspan="1"><ul class="novel-list-disc novel-list-outside novel-leading-3 novel--mt-2 tight" data-tight="true"><li class="novel-leading-normal novel--mb-2"><p>Je vous prie de recevoir, Monsieur, mes salutations distinguées.</p></li><li class="novel-leading-normal novel--mb-2"><p>Veuillez croire, Madame, Monsieur, à l’assurance de toute ma considération.</p></li><li class="novel-leading-normal novel--mb-2"><p>Je vous prie d’agréer, Madame, l’expression de ma considération distinguée.</p></li></ul></td></tr><tr><th colspan="2" rowspan="1"><p>Fin de courrier adressé à un supérieur.</p></th></tr><tr><td colspan="2" rowspan="1"><ul class="novel-list-disc novel-list-outside novel-leading-3 novel--mt-2 tight" data-tight="true"><li class="novel-leading-normal novel--mb-2"><p><em>Veuillez agréer, Madame, Monsieur, l’expression de toute ma dévotion.</em></p></li></ul><ul class="novel-list-disc novel-list-outside novel-leading-3 novel--mt-2 tight" data-tight="true"><li class="novel-leading-normal novel--mb-2"><p><em>Je vous prie d’agréer, Madame la députée, l’expression de mes sentiments les plus respectueux.</em></p></li></ul><ul class="novel-list-disc novel-list-outside novel-leading-3 novel--mt-2 tight" data-tight="true"><li class="novel-leading-normal novel--mb-2"><p><em>Daignez agréer, Monsieur le Ministre, l’assurance de ma considération dévouée.</em></p></li></ul></td></tr></tbody>
-</table>
+## III. Fonctionnalités
 
-## Règles générales
+- **Prise en charge de formes de jardins quelconques**
+- **Cartographie thermique**
+- **Cartographie de l'humidité**
+- **Cartographie de l'ensoleillement**
+- **Conseils de jardinage**
 
-- Les formules de politesse ne sont jamais suivies d’un point, mais toujours d’une virgule, avant d’aller à la ligne et de signer.
-- On n’emploie pas d’abréviations pour les appellations.
-- Par courtoisie, on écrit toujours l’adresse “Madame” avant “Monsieur”.
-- Croire à quelque chose, et non pas “en”, qui est réservé à Dieu et aux croyances immatérielles.
-- Le terme “expression” doit absolument être suivi d’un nom désignant un sentiment.
-- On ne termine pas un courriel de la même manière qu'une lettre. Les deux formats ont des différences et leurs propres pratiques respectives.
-- <span style="font-family: Helvetica">Une dame n'exprime pas de «sentiments» </span><span style="font-family: Times">à </span><span style="font-family: Helvetica">l'égard des «messieurs».</span>
-- <span style="font-family: Helvetica">On n'exprime ses hommages qu'à une dame.</span>
-- <span style="font-family: Helvetica">Féminisation des titres : Les titres sont féminisés et, sans indication, il convient d'utiliser le «féminin» officiel. Toutefois, il convient toujours d'adopter, lorsqu'elle est connue, la formulation retenue par le destinataire qui peut préférer l'intitulé invariable.</span>
+```mermaid
+graph TD;
+    A[Capteurs de température, humidité et luminosité] --> B(Analyse des données);
+    B --> C{Conditions de jardinage};
+    C -->|Température élevée| D(Arrosage plus fréquent);
+    C -->|Humidité basse| E(Augmenter l'arrosage ou ajouter du paillis);
+    C -->|Ensoleillement insuffisant| F(Déplacer les plantes vers des zones plus ensoleillées ou ajouter des lampes de croissance);
+    C -->|Conditions optimales| G(Aucun conseil nécessaire);
+    D --> H{Connecté à un ordinateur};
+    E --> H;
+    F --> H;
+    G --> H;
+    H --> I(Interface utilisateur);
+    I --> J[Tableau de données];
+    I --> K[Graphiques de tendances];
+```
 
-## Sources
+## IV. Liste du matériel du projet final
 
-- Centre de Linguistique Appliquée de Besançon. *Guide Pratique de la Rédaction Administrative*. Comité d’Orientation pour la Simplification du Langage Administratif. <http://sbssa.ac-amiens.fr/IMG/pdf/guide_de_la_redaction_administrative_1\_.pdf>
-- "Formule de Politesse à la Fin d'une Lettre." *Merci App*, <https://www.merci-app.com/article/formule-de-politesse-fin-lettre>. Consulté le 19 mai 2024.
-- Roselyne Kadyss et Aline Nishimata. *Rédiger avec succès lettres, e-mails et documents administratifs*. 8ème éd., Les Carrés, Gualino, Lextenso éditions, 2016. 
+| **Système**             | **Arduino**                            | **Espressif**                                                    |
+|-------------------------|----------------------------------------|------------------------------------------------------------------|
+| 🖥️ **Microcontrôleur** | Arduino NANO                           | ESP-32-CAM                                                       |
+| 📡 **Capteurs**         | - 🌡️💧DHT22 × 1                       | - 🌡️💧DHT22 × 1                                                 |
+|                         | - 🌅 Photorésistance × 1               | - 🌅 Photorésistance × 1                                         |
+|                         | - 🔊 Capteur ultrason × 3              | - 🔊 Capteur ultrason × 3                                        |
+|                         | - 📷 Module caméra                     |                                                                  |
+|                         | - 🌍 Module GPS                        | - 🌍 Module GPS                                                  |
+| 🛠️ **Autres**          | - ⚙️ Servomoteurs débridés × 4~6       | - ⚙️ Servomoteurs débridés × 4~6 (dépendant de la charge totale) |
+|                         | - 🔋 Batterie : rechargeable et légère | - 🔋 Batterie : rechargeable et légère                           |
+|                         | - 🛡️ Châssis : PLA                    | - 🛡️ Châssis : PLA                                              |
+
+## V. Installation du projet final
+😶‍🌫️
+
+## VI. Notre parcours
+
+Le projet final implique un robot entièrement autonome, capable de cartographier un jardin de forme complexe. Mais avant d'atteindre ce résultat final, nous devons adopter une méthode itérative. Ainsi, dans un premier temps, le projet se limitera à ces fonctionnalités :
+
+- **Prise en charge de formes de jardins rectangulaires**
+- **Cartographie thermique**
+- **Cartographie de l'humidité**
+- **Cartographie de l'ensoleillement**
+
+Nous avons eu à réaliser le schéma que voici pour avoir une idée de la forme du robot et de l'emplacement des capteurs et composants pour optimiser l'espace efficacement afin d'accueillir l'ensemble du câblage. 
+
+<img align="right" src="https://github.com/THE07s/GardenMapBot/assets/162814213/61cb331c-02a5-4488-8f8d-96ea3b070785" alt="schémaGMB" width="68%" />
+
+- Nous avons donc placé le [🌡️💧DHT22](https://grabcad.com/library/dht22-module-1) tourné vers le sol et sur la face inférieure du robot pour pouvoir prendre nos mesures le plus près possible du sol. 
+- Les 4 [⚙️Servomoteur](https://grabcad.com/library/servo-motor-sg90-6) et les 3 [🔊Capteur ultrason](https://grabcad.com/library/ultrasonic-sensor-hc-sr04-3) ont eux, étés logés sur les côtés symétriquement par rapport à l'axe passant par le milieu des faces inférieur et supérieur. 
+- La [🌅 Photorésistance](https://grabcad.com/library/gl5528-photoresistor-1) est quant à elle placée de sorte que le milieu de sa face supérieur soit confondus avec l'axe de symétrie. 
+- L'antenne du [🌍 Module GPS](https://grabcad.com/library/ublox-m6-with-ceramic-antenna-1) a été placée au-dessus de l'[🖥️Arduino NANO](https://grabcad.com/library/arduino-nano--1) pour des raisons d'esthétiques. 
+- La carte [🖥️Arduino NANO](https://grabcad.com/library/arduino-nano--1) est elle-même placée de telle sorte que ces ports soient exposés et facilement accéssibles de l'extérieur.
+
+<br clear="right"/>
+<br>
+Voici les étapes de la modélisation du corps de notre robot :
+<br>
+ <video autoplay loop playsinline src="https://github.com/THE07s/GardenMapBot/assets/101391118/6161aa29-c9dc-4e73-8f62-6bf7b1b91bbf">  video </video>
+<br>
+
+Voici les différentes parties qui forment le boitier de notre robot :
+<br>
+<p>
+    <img src="https://github.com/THE07s/GardenMapBot/assets/162814002/96229055-2d68-4da5-b596-8e4f06e4de6f" alt="Dessous" width="47%" hspace="10" >
+    <img src="https://github.com/THE07s/GardenMapBot/assets/162814002/d35b4b35-3c79-444f-ae4d-81c1af8201e7" alt="Dessus" width="47%" hspace="10" >
+</p>
+
+Voici un aperçu du déplacement du robot :
+
+<br>
+<video autoplay loop playsinline src="https://github.com/THE07s/GardenMapBot/assets/162814002/8494161b-c6f6-4778-b160-64e97f9adee7" width="30%" hspace="10"> video </video>
+<br>
+
+> [!NOTE]
+> ### Problèmes & Solutions
+> Lors de la réalisation de ce projet, nous avons eu à faire face à une flopée de problèmes à savoir :
+> **Pendant la modélisation 3D** :
+> - Centrer les extrusions (destinées à la carte) horizontalement au milieu de la face réservée en utilisant la modélisation paramétrique.
+> - Établir une connexion claire entre les esquisses et la modélisation 3D.
+> - Éviter les sur-contraintes de l’esquisse.
+
+> [!WARNING]
+> **Après la modélisation 3D** :
+> - Le DHT22 et le module GPS ne rentraient pas dans l'espace qui leur était réservés.
+> - Les Servomoteurs flottaient dans l'espace qui leur était réservés.
+
+> [!NOTE]
+> **Pendant la conception du circuit** :
+> - Importer le DHT22 dans Fritzing.
+> - Importer le Shield adapté à l'Arduino NANO dans Fritzing.
+> - L'absence du NANO, du module GPS et du DHT22 dans Tinkercad.
+
+> [!TIP]
+> Pour résoudre ces problèmes, nous avons "innover" et fait les tests nécessaires avec l'Arduino UNO étant donné les nombreuses similitudes entre cette carte et l'arduino NANO. Quant aux pièces, nous avons limé les contours pour pouvoir placer le DHT22 et utiliser le pistolet à colle pour fixer les servomoteurs.
+
+### Références
+
+- [Inspiration pour la conception du corps 🧰](https://www.youtube.com/watch?v=E0NVC8xhf3I)
+- [Roues pour le servomoteur SG90 ⚙️](https://cults3d.com/fr/mod%C3%A8le-3d/art/wheel-for-sg90-servo)
+- [Configuration du capteur ultrason 🔊](https://arduino-france.site/ultrason-hc-sr04/)
+- [Aide à la rédaction de la documentation 📑](https://github.com/miyujach/Projet-Robot/blob/9f384fafb67974cea4fc9b659ff7004661033b75/README.md#projet-ascyloom)
